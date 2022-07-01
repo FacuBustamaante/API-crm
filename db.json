@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Matias",
+      "empresa": "Cualquiera",
+      "email": "correo@correo.com",
+      "telefono": "3748374921",
+      "notas": "Si hay",
+      "id": 2
+    },
+    {
+      "nombre": "Matias",
+      "empresa": "Cualquiera",
+      "email": "correo@correo.com",
+      "telefono": "3748374921",
+      "notas": "Si hay",
+      "id": 3
+    },
+    {
+      "nombre": "Martin",
+      "empresa": "Cualquiera",
+      "email": "correo@correo.com",
+      "telefono": "95933950",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "ass",
+      "empresa": "Hola",
+      "email": "cor@s.com",
+      "telefono": "585858",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Facundo",
+      "empresa": "Cualquiera",
+      "email": "correo@correo.com",
+      "telefono": "374837492",
+      "notas": "No hay",
+      "id": 6
+    },
+    {
+      "nombre": "Facundoss",
+      "empresa": "Cualquiera",
+      "email": "correo@correo.com",
+      "telefono": "374837492",
+      "notas": "No hay",
+      "id": 7
+    }
+  ]
+}
